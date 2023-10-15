@@ -1,0 +1,16 @@
+git remote add origin https://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@github.com/rsadaphule/jhu-aaml.git
+
+
+
+PAT : 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
+
+
+
+Username
+elastic
+Password
+aLN4ahCZrYnia9yzHrMGGy01
+
+
+deployment_id
+My_deployment:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbzo0NDMkZGIzYjM4NDBhNjIyNDE1NTg0ODAwYTQ3MTRlNWQ2ZjUkNzlkMTdjNDkwOGZmNGVhYjhmM2Q2NjBjNjUwNDhkNDM=
